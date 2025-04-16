@@ -11,6 +11,12 @@
    ![Research](https://img.shields.io/badge/Research-Interpretability-purple)
 </div>
 
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
+> 
 ## Executive Summary
 
 This repository extends Anthropic's constitutional AI alignment framework to the organizational layer, providing interpretability tools for recursive governance auditing. By applying the same principles of transparency, verifiability, and alignment that Anthropic champions for AI systems to the organizational structures that create them, we reveal critical insights about regulatory coherence.
