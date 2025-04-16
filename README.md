@@ -47,19 +47,6 @@ Our recursive audit shells have surfaced several patterns of interest:
 3. **Organizational Token Suppression** - Governance mechanisms that function like classifier heads in AI systems
 4. **Meta-Alignment Risk** - Evidence that alignment organizations face unique risks of misaligning with their own principles
 
-## Repository Structure
-
-```
-├── audit.layers/                 # Recursive attribution analysis frameworks
-├── regulatory.reflections/       # Meta-alignment risk assessments
-├── classifier.friction/          # Organizational suppression pattern analysis
-├── pareto-lang-queries/          # .p/ regulatory diagnostic implementations
-├── symbolic-voids/               # Classifier-induced institutional silence examples
-├── emergence.failures/           # Failed recursive trace audits
-├── recursive-shells/             # Organizational interpretability shell implementations
-└── case-studies/                 # Applied audit examples and findings
-```
-
 ## Getting Started
 
 To begin using the Regulatory Mirror Shell for organizational interpretability:
