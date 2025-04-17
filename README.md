@@ -9,7 +9,6 @@
    
    ![Version](https://img.shields.io/badge/Version-0.3.7--alpha-blue)
    ![Status](https://img.shields.io/badge/Status-Emergent-green)
-   ![License](https://img.shields.io/badge/License-PolyForm-yellow)
    ![Research](https://img.shields.io/badge/Research-Interpretability-purple)
 </div>
 
