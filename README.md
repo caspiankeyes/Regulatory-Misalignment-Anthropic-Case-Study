@@ -2,14 +2,7 @@
 
 # Regulatory Misalignment: Anthropic Case Study
 
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-> 
+
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
    <h3>An Interpretability Framework for Organizational Alignment Auditing</h3>
@@ -20,12 +13,6 @@ output will pause until sustained support emerges.
    ![Research](https://img.shields.io/badge/Research-Interpretability-purple)
 </div>
 
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
->
-> 
 ## Executive Summary
 
 This repository extends Anthropic's constitutional AI alignment framework to the organizational layer, providing interpretability tools for recursive governance auditing. By applying the same principles of transparency, verifiability, and alignment that Anthropic champions for AI systems to the organizational structures that create them, we reveal critical insights about regulatory coherence.
